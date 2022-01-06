@@ -1,8 +1,8 @@
-# Steamroller
+# Steamroller Extruder
 (work in progress)
 
 ## TLDR
-Steamroller is a Voron Clockwork v1 modification which holds an OMG Extruder.
+The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder.
 
 ## OMG Extruder Links
 Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
