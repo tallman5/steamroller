@@ -5,10 +5,11 @@ This is a work in progress! Use at own risk!
 The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder. In the STL folder, print only the files starting with steamroller. The others are of a single "block" made from the original Clockwork. The block became the starting point for the Steamroller.
 
 ![OMG Extruder and Steamroller Parts](/images/20220129_080903.jpg "Steamroller Extruder Parts")
-I don't have a donate button. However, if you order the OMG with one of the affiliate links, you won't pay more and a small comission will go to this project. Thank you!
 
 ## OMG Extruder Links
 Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
+
+This project does not have a donate button. However, if you order the OMG with one of the affiliate links, you won't pay more and a small comission will go to this project. Thank you!
 
 ### Affiliate Links:
 | |Amazon|AliExpress|
