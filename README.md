@@ -1,5 +1,5 @@
 # Steamroller Extruder
-(work in progress)
+This is a work in progress! Use at own risk!
 
 ## TLDR
 The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder.
