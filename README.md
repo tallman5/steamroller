@@ -1,5 +1,5 @@
 # Steamroller Extruder
-This is a work in progress! Use at own risk!
+Not ready for prime time, this is a work in progress! Use at own risk! Right now, there's an issue with the fit between the Clockwork and the hotend housing. Workin' it, will update here when fixed.
 
 ## TLDR
 The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder. In the STL folder, print only the files starting with steamroller. The others are of a single "block" made from the original Clockwork. The block became the starting point for the Steamroller.
