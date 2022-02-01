@@ -51,5 +51,9 @@ In the following pic, the Galileo is on the left, Steamroller on the right. They
 
 Yes, there's some ringing. I had done a manual ringing tower before the Galileo (along with pressure advance, etc.). I did not recalibrate or clear the settings before the Steamroller.
 
+## Known Issues
+1. The cable chain mount could be thicker. The heat set inserts and screws protrude through the bottom.
+1. No cable cover... yet. Maybe the Galileo one works with a longer screw through the motor mounting?
+
 ## Enjoy!
 If you implement it, share it for others!
