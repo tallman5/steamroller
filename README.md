@@ -49,7 +49,7 @@ In the following pic, the Galileo is on the left, Steamroller on the right. They
 
 ![Galileo/Steamroller Calibration Cubes](/images/20220201_082046.jpg "Galileo/Steamroller Calibration Cubes")
 
-Yes, there's some ringing. I had done a manual ringing tower before the Galileo (along with pressure advance, etc.). I did not recalibrate or clear the settings before the Steamroller.
+Yes, there's some ringing. I had done a manual ringing tower with the Galileo (along with pressure advance, etc.). I did not recalibrate or clear the settings before the Steamroller.
 
 ## Known Issues
 1. The cable chain mount could be thicker. The heat set inserts and screws protrude through the bottom.
