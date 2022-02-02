@@ -55,5 +55,10 @@ Yes, there's some ringing. I had done a manual ringing tower with the Galileo (a
 1. The cable chain mount could be thicker. The heat set inserts and screws protrude through the bottom.
 1. No cable cover... yet. Maybe the Galileo one works with a longer screw through the motor mounting?
 
+## Design Files
+Please don't mock my design skills! There are two Blender files:
+1. Clockwork - I imported the Clockwork v1 and filled in the front and back parts. These became my "blank" for the Steamroller
+2. Steamroller - I took the Clockwork blank and proceeded to use other meshes to remove parts to make room for the OMG. Hopefully no one's offended by this method. It makes it easy to modify aspects such as hole diameter, positions, etc.
+
 ## Enjoy!
 If you implement it, share it for others!
