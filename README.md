@@ -12,10 +12,10 @@ Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
 This project does not have a donate button. However, if you order the OMG with one of the affiliate links, you won't pay more and a small commission will go to this project. Thank you!
 
 ### Affiliate Links:
-| |Amazon|AliExpress|
-|-|------|----------|
-|w\ Stepper|[https://amzn.to/3evmbuK](https://amzn.to/3evmbuK)|[https://s.click.aliexpress.com/e/_ApIpiY](https://s.click.aliexpress.com/e/_ApIpiY)|
-|w\o Stepper|[https://amzn.to/32xOlTq](https://amzn.to/32xOlTq)|[https://s.click.aliexpress.com/e/_9vAmFe](https://s.click.aliexpress.com/e/_9vAmFe)|
+| |AliExpress|
+|-|----------|
+|w\ Stepper|[https://s.click.aliexpress.com/e/_ApIpiY](https://s.click.aliexpress.com/e/_ApIpiY)|
+|w\o Stepper|[https://s.click.aliexpress.com/e/_9vAmFe](https://s.click.aliexpress.com/e/_9vAmFe)|
 
 ## Why?
 During a Voron 2.4 build, I was using the OMG with a bowden tube on the Voron until the Galileo parts came in. There were some great prints coming off the Voron. After installing and tuning the Galileo, I noticed how close the prints were in quality. So, decided to try to go direct drive with the OMG. The Steamroller is the result.
