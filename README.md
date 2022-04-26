@@ -2,7 +2,7 @@
 Not ready for prime time, this is a work in progress! Use at own risk!
 
 ## TLDR
-The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder. In the STL folder, print only the files starting with steamroller. The others are of a single "block" made from the original Clockwork. The block became the starting point for the Steamroller.
+The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder.
 
 ![OMG Extruder and Steamroller Parts](/images/20220129_080903.jpg "Steamroller Extruder Parts")
 
@@ -12,10 +12,11 @@ Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
 This project does not have a donate button. However, if you order the OMG with one of the affiliate links, you won't pay more and a small commission will go to this project. Thank you!
 
 ### Affiliate Links:
-| |AliExpress|
-|-|----------|
-|w\ Stepper|[https://s.click.aliexpress.com/e/_ApIpiY](https://s.click.aliexpress.com/e/_ApIpiY)|
-|w\o Stepper|[https://s.click.aliexpress.com/e/_9vAmFe](https://s.click.aliexpress.com/e/_9vAmFe)|
+|Description|Link|
+|-|-|
+|Amazon Store|[https://amzn.to/3k8c2qy](https://amzn.to/3k8c2qy)|
+|AliExpress w\ Stepper|[https://s.click.aliexpress.com/e/_ApIpiY](https://s.click.aliexpress.com/e/_ApIpiY)|
+|AliExpress w\o Stepper|[https://s.click.aliexpress.com/e/_9vAmFe](https://s.click.aliexpress.com/e/_9vAmFe)|
 
 ## Why?
 During a Voron 2.4 build, I was using the OMG with a bowden tube on the Voron until the Galileo parts came in. There were some great prints coming off the Voron. After installing and tuning the Galileo, I noticed how close the prints were in quality. So, decided to try to go direct drive with the OMG. The Steamroller is the result.
@@ -32,7 +33,7 @@ Everything about this is per the Voron standard, slicer settings, heat set inser
 1. Using the standard carriage -> Clockwork screws, screw the Steamroller to the carriage
 1. Cut a piece of PTFE, mine was 62mm for a v6 hot end
 1. Install the fan assembly
-1. Edit the printer.cfg, below are what I used with Fluiddd and a Spider v1.2:
+1. Edit the printer.cfg, below is what I used with Fluiddd and a Spider v1.2:
       ```
       # Steamroller
      rotation_distance: 47.77753134
@@ -54,11 +55,6 @@ Yes, there's some ringing. I had done a manual ringing tower with the Galileo (a
 ## Known Issues
 1. The cable chain mount could be thicker. The heat set inserts and screws protrude through the bottom.
 1. No cable cover... yet. Maybe the Galileo one works with a longer screw through the motor mounting?
-
-## Design Files
-Please don't mock my design skills! There are two Blender files:
-1. Clockwork - I imported the Clockwork v1 and filled in the front and back parts. These became my "blank" for the Steamroller
-2. Steamroller - I took the Clockwork blank and proceeded to use other meshes to remove parts to make room for the OMG. Hopefully no one's offended by this method. It makes it easy to modify aspects such as hole diameter, positions, etc.
 
 ## Enjoy!
 If you implement it, share it for others!
