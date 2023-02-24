@@ -7,16 +7,12 @@ The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder.
 ![OMG Extruder and Steamroller Parts](/images/20220129_080903.jpg "Steamroller Extruder Parts")
 
 ## OMG Extruder Links
-Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
 
-This project does not have a donate button. However, if you order the OMG with one of the affiliate links, you won't pay more and a small commission will go to this project. Thank you!
+This project does not have a donate button. However, if you order the OMG with an affiliate link, you won't pay more and a small commission will go to this project. Thank you!
 
-### Affiliate Links:
-|Description|Link|
-|-|-|
-|Amazon Store|[https://amzn.to/3k8c2qy](https://amzn.to/3k8c2qy)|
-|AliExpress w\ Stepper|[https://s.click.aliexpress.com/e/_ApIpiY](https://s.click.aliexpress.com/e/_ApIpiY)|
-|AliExpress w\o Stepper|[https://s.click.aliexpress.com/e/_9vAmFe](https://s.click.aliexpress.com/e/_9vAmFe)|
+OMG Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
+
+Affiliate Link: [https://amzn.to/3EAxDCI](https://amzn.to/3EAxDCI)
 
 ## Why?
 During a Voron 2.4 build, I was using the OMG with a bowden tube on the Voron until the Galileo parts came in. There were some great prints coming off the Voron. After installing and tuning the Galileo, I noticed how close the prints were in quality. So, decided to try to go direct drive with the OMG. The Steamroller is the result.
