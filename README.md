@@ -1,10 +1,24 @@
 # Steamroller Extruder
-Not ready for prime time, this is a work in progress! Use at own risk!
 
-## TLDR
-The Steamroller extruder is a Voron Clockwork, modified to hold an OMG Extruder.
+**Note: **
+All of this is still in beta, please use at your own risk. Thanks!
 
-![OMG Extruder and Steamroller Parts](/images/20220129_080903.jpg "Steamroller Extruder Parts")
+![OMG Extruder and Steamroller Parts](/images/srs.png "Steamroller")
+
+## Overview
+The Steamroller Extruder is a custom adapter to hold the OMG Extruder for various print heads.
+The following is a list of the available flavors.
+
+1. Steamroller Stealthburner, SR-SB, for the Stealthburner/Clockwork 2
+1. Steamroller Afterburner, SR-AB, for the Afterburner/Clockwork 1 (complete hack, yet works well)
+1. Steamroller EVA, SR-EVA, you guessed it, for EVA (not ready for prime-time yet)
+
+Print the files in the STL folder for the appropriate version.
+The default STLs have a 4.7mm hole for M3x5x4 threaded inserts.
+Since the inserts aren't always easy to get, there are subfolders for other size threaded inserts.
+For example, the STLs in the folder ti-5-3 has 5.3mm holes for M3x5.5x4 inserts.
+The F360 design has a parameter to globally change the threaded insert hole diameter.
+Or, message me and I can create a custom set.
 
 ## OMG Extruder Links
 
@@ -15,23 +29,27 @@ OMG Home page: [https://www.omgextrd.com/](https://www.omgextrd.com/)
 Affiliate Link: [https://amzn.to/3EAxDCI](https://amzn.to/3EAxDCI)
 
 ## Why?
-During a Voron 2.4 build, I was using the OMG with a bowden tube on the Voron until the Galileo parts came in. There were some great prints coming off the Voron. After installing and tuning the Galileo, I noticed how close the prints were in quality. So, decided to try to go direct drive with the OMG. The Steamroller is the result.
+During a Voron 2.4 build, I was using the OMG with a bowden tube on the Voron until the Galileo parts came in. There were some great prints coming from the OMG extruder. After installing and tuning the Galileo, I noticed how close the prints were in quality. So, decided to try to go direct drive with the OMG. The Steamroller AB is the result.
 
 ## Installation Steps
 Everything about this is per the Voron standard, slicer settings, heat set inserts, etc..
+The following directions are for the SR-AB. The others are similar.
+More detailed instructions to come.
 
-1. Print all the parts starting with "steamroller-" from the STL folder. Right now, there's only two
-1. Add the heat set inserts, seven in total
+1. Print the parts from the STL folder. Right now, there's only two.
+1. Add the heat set inserts
 1. Screw the back of the OMG through the motor plate into the stepper motor
+   1. For the SR-AB, the motor plate is between the OMG clamshell and the motor
+   1. For the SR-SB, the motor is screwed the the clamshell
 1. Assemble the rest of the OMG onto the motor plate assembly
 1. Position the front of the Steamroller onto the assembly
-1. On the stepper, cut the end of the wires and crimp ends to match your wiring harness or PCB
 1. Using the standard carriage -> Clockwork screws, screw the Steamroller to the carriage
-1. Cut a piece of PTFE, mine was 62mm for a v6 hot end
+1. Cut a piece of PTFE for the Steamroller to the hotend
+   1. SR-AB - Mine was 62mm for a v6 hot end
 1. Install the fan assembly
 1. Edit the printer.cfg, below is what I used with Fluiddd and a Spider v1.2:
       ```
-      # Steamroller
+      # Steamroller AB (SB and EVA should be similar)
      rotation_distance: 47.77753134
      microsteps: 16
      full_steps_per_rotation: 760
@@ -41,16 +59,12 @@ Everything about this is per the Voron standard, slicer settings, heat set inser
 1. Do the e-steps calibration and update the rotation_distance
 1. Print something!
 
-## How Well Does it Work?
-In the following pic, the Galileo is on the left, Steamroller on the right. They are printed from the same filament spool using same .gcode file. The two were printed one right after the other (Steamroller installation in between).
+## How Well Does It Work?
+In the following pic, the Galileo is on the left, Steamroller AB on the right. 
+They are printed from the same filament spool using same .gcode file. 
+The two were printed one right after the other (Steamroller AB installation in between).
 
 ![Galileo/Steamroller Calibration Cubes](/images/20220201_082046.jpg "Galileo/Steamroller Calibration Cubes")
-
-Yes, there's some ringing. I had done a manual ringing tower with the Galileo (along with pressure advance, etc.). I did not recalibrate or clear the settings before the Steamroller.
-
-## Known Issues
-1. The cable chain mount could be thicker. The heat set inserts and screws protrude through the bottom.
-1. No cable cover... yet. Maybe the Galileo one works with a longer screw through the motor mounting?
 
 ## Enjoy!
 If you implement it, share it for others!
