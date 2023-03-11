@@ -41,6 +41,7 @@ Everything about this is per the Voron standard, slicer settings, heat set inser
 
 1. Gather parts from the BOM, there's a BOM for each flavor
 1. Print the parts
+   1. Yellow's not required :smile:, just used it on renders following the Steamroller theme
    1. Front and back found in the STL folder
    1. The 2- or 3- hole chain anchor from the Voron Clockwork 2 found [here](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2)
    1. If using the SRSB, the cable cover from the Voron Clockwork 2 found [here](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2)
