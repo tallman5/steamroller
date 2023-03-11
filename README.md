@@ -47,6 +47,7 @@ Everything about this is per the Voron standard, slicer settings, heat set inser
 1. Add the heat set inserts
 1. Install the cable chain anchor to the back
 1. For the SRSB, install the cable cover to the back
+1. If installing a NEMA17 on the SRAB, push the motor through the back before attaching the motor to the OMG
 1. Place the OMG in the Steamroller front
 1. Screw the back to the front
 1. Install a piece of PTFE for the Steamroller to the hotend
