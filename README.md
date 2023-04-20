@@ -27,7 +27,7 @@ This project does not have a donate button.
 However, if you order the OMG with an affiliate link, you won't pay more and a small commission will go to this project.
 Thank you!
 
-Affiliate Link: [https://amzn.to/3EAxDCI](https://amzn.to/3EAxDCI)
+Affiliate Link: [https://amzn.to/40tsNPE](https://amzn.to/40tsNPE)
 
 ## Why?
 During a Voron 2.4 build, I was using the OMG with a bowden tube on the Voron until the Galileo parts came in.
